@@ -1,0 +1,1 @@
+console.log('see the Traversy media YouTube on linked list')
